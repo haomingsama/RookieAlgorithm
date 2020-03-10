@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+# @Time    : 2020-03-09
+# @Author  : 托比欧
+# @FileName: split_gift.py
+# @Article ：https://zhuanlan.zhihu.com/p/111852977
+
 '''
 
 分礼物问题，把n个礼物分给k个小朋友。输出一共有多少种分法，以及每种具体的分法
